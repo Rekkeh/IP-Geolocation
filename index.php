@@ -82,7 +82,7 @@ if ($request == "") { $request = $_SERVER['REMOTE_ADDR']; }
 	<br/>
 	<footer>
 		<center>
-			<p>Developed by <a href="https://github.com/legorek">Rekkeh</a></p>
+			<p>Developed by <a href="https://github.com/Rekkeh">Rekkeh</a></p>
 		</center>
 	</footer>
 	</body>
